@@ -1,0 +1,25 @@
+:root {
+  --black_opacity: rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+}
+
+#clock,
+#ready_orders,
+#bestsellers,
+#queue,
+#beers {
+  background-color: var(--black_opacity);
+  border-radius: 25%;
+}
+
+svg {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
