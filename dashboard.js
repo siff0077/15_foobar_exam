@@ -1,3 +1,5 @@
+import './dashboard.scss'
+
 "use strict!"
 
 var hands = [];

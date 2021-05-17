@@ -21,5 +21,6 @@
   "homepage": "https://github.com/siff0077/15_foobar_exam#readme",
   "devDependencies": {
     "vite": "^2.3.2"
-  }
+  },
+  "dependencies": {}
 }
