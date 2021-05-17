@@ -1,0 +1,25 @@
+{
+  "name": "15_foobar_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siff0077/15_foobar_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siff0077/15_foobar_exam/issues"
+  },
+  "homepage": "https://github.com/siff0077/15_foobar_exam#readme",
+  "devDependencies": {
+    "vite": "^2.3.2"
+  }
+}
